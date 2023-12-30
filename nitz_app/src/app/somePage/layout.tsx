@@ -5,7 +5,7 @@ export default function SomePageLayout({
 }) {
   return (
     <div>
-        <h2>this is some other page layout!</h2>
+        <h2>Some other page layout!</h2>
         {children}
     </div>
   )
