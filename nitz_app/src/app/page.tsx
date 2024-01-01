@@ -2,7 +2,14 @@
 export default function Home() {
   return (
     <>
-      <p>Home Page</p>
+      <h1 className="title"> This is Nitzan Dombrovsky`s site</h1>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ullamcorper, libero vitae vestibulum pellentesque, libero est malesuada neque, vel porta tortor velit vitae libero. Suspendisse et aliquet urna. Mauris rutrum porta nunc, at tempor odio semper id. Mauris magna augue, hendrerit non gravida sed, maximus nec quam. Nulla luctus rutrum diam, eget venenatis nulla auctor eget. Praesent accumsan dui diam, in lobortis nisi auctor eu. Nulla commodo feugiat felis, sit amet aliquam dui interdum et.
+        Pellentesque laoreet dictum rutrum. Mauris ultrices vehicula sem quis tempus. Pellentesque efficitur eros vitae tellus finibus tincidunt. Duis porta aliquet odio. Cras accumsan, dui a semper sodales, nulla mi vestibulum purus, eget dignissim mauris sem vitae ante. In sed lacinia diam, ut vestibulum ipsum. Curabitur rhoncus est id diam sodales egestas. Morbi lobortis augue sodales lorem finibus, in ullamcorper nunc dictum. Etiam sed magna sodales, dapibus erat nec, vulputate diam. Praesent nulla erat, condimentum vitae nulla a, tempus tempus ante. Maecenas lectus nunc, laoreet vitae mauris in, consequat ultrices magna. Aliquam maximus erat a massa interdum fermentum. Maecenas ornare dui a elementum tristique. Sed et tincidunt elit.
+        Vivamus sit amet magna eleifend, mollis quam vitae, luctus orci. Fusce ex est, convallis vitae nisl quis, scelerisque tristique ex. Donec sollicitudin erat et molestie dignissim. Vivamus posuere, orci ut bibendum pellentesque, sapien purus varius quam, nec posuere mi turpis non massa. In eget metus aliquet, mollis lectus sed, fermentum enim. Phasellus at feugiat arcu. Vestibulum nec turpis porttitor, eleifend quam a, mollis mi. Donec fringilla, arcu at gravida aliquet, nulla tortor tempor tellus, eu placerat dui dolor sed enim. Cras dui eros, lobortis efficitur felis non, ultricies rhoncus elit.
+        Aliquam et placerat arcu, sed elementum leo. Duis eget urna mi. In lacus nibh, imperdiet at neque sed, volutpat semper lectus. Quisque ac mauris elementum, eleifend enim sed, finibus orci. Proin metus risus, placerat nec augue a, interdum posuere nibh. Praesent dignissim, neque vitae placerat vehicula, justo elit ullamcorper leo, ornare tempor sem dolor eget mi. Pellentesque blandit dui erat, id eleifend risus venenatis eget. Phasellus euismod tempor faucibus. Integer facilisis pulvinar erat eget egestas.
+        Donec ultrices, lectus vel placerat porttitor, nisi ipsum mattis purus, non porttitor orci purus vitae sapien. Fusce nec massa at dolor aliquam bibendum sit amet quis justo. Aenean sollicitudin facilisis turpis et tristique. Vivamus a mauris vel orci aliquam rutrum id ac quam. Phasellus tincidunt, est eget hendrerit hendrerit, dolor metus sodales mauris, a porttitor neque tortor sed purus. In sem quam, fringilla ut quam sit amet, fermentum luctus eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      </p>
     </>
   )
 }

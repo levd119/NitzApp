@@ -1,0 +1,22 @@
+/* components/Tabs.module.css */
+.tabsContainer {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.tab {
+  cursor: pointer;
+  padding: 10px;
+  margin-right: 30px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.activeTab {
+  background-color: #007bff;
+  color: white;
+}
+.tabContent{
+  text-align: center;
+}

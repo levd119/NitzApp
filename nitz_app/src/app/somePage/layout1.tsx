@@ -1,3 +1,5 @@
+import Navbar from "@/components/navbar/Navbar"
+
 export default function SomePageLayout({
   children,
 }: {
@@ -5,7 +7,7 @@ export default function SomePageLayout({
 }) {
   return (
     <div>
-        <h2>Some other page layout!</h2>
+        <h1 className="title" >Some other page layout!</h1>
         {children}
     </div>
   )
