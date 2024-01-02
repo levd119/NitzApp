@@ -1,7 +1,7 @@
 "use client"
 import { useEffect, useState } from "react";
-import Tab, { TabProps } from "./tab/Tab";
 import styles from './Tabs.module.css';
+import { TabProps } from "@/app/somePage/page";
 
 export interface TabsProps {
   tabs: TabProps[];

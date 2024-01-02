@@ -1,8 +1,10 @@
 /* components/Tabs.module.css */
 .tabsContainer {
+  padding-top: 10px;
   display: flex;
   justify-content: center;
   position: relative;
+  background-color: blueviolet;
 }
 
 .tab {
@@ -18,5 +20,6 @@
   color: white;
 }
 .tabContent{
+  padding-top: 10px;
   text-align: center;
 }
